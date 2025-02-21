@@ -1,4 +1,3 @@
-// Array of card data (you can modify this data)
 const cardData = [
   {
     image:
